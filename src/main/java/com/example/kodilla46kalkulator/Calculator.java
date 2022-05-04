@@ -15,6 +15,6 @@ public class Calculator {
         Calculator calculator = new Calculator();
         calculator.addition(2,5);
         System.out.println(calculator.addition(2,5));
-
+     // komentarz
     }
 }
